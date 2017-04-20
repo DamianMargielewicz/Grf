@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\damian\ath\grafika\zaj3\gradient czarno-biały\gradient\gradient\source.cpp(44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\gradient czarno-biały\gradient\gradient\source.cpp(147): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\gradient czarno-biały\gradient\gradient\source.cpp(152): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\gradient czarno-biały\gradient\gradient\source.cpp(213): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\gradient czarno-biały\gradient\gradient\source.cpp(215): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\gradient czarno-biały\gradient\gradient\source.cpp(217): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\gradient czarno-biały\gradient\gradient\source.cpp(219): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  gradient.vcxproj -> D:\Damian\ATH\Grafika\zaj3\gradient czarno-biały\gradient\Debug\gradient.exe
+  gradient.vcxproj -> D:\Damian\ATH\Grafika\zaj3\gradient czarno-biały\gradient\Debug\gradient.pdb (Partial PDB)

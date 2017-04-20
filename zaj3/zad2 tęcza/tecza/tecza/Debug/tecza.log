@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\damian\ath\grafika\zaj3\zad2 tęcza\tecza\tecza\source.cpp(468): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\zad2 tęcza\tecza\tecza\source.cpp(473): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\zad2 tęcza\tecza\tecza\source.cpp(525): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\zad2 tęcza\tecza\tecza\source.cpp(527): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\zad2 tęcza\tecza\tecza\source.cpp(529): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\damian\ath\grafika\zaj3\zad2 tęcza\tecza\tecza\source.cpp(531): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  tecza.vcxproj -> D:\Damian\ATH\Grafika\zaj3\zad2 tęcza\tecza\Debug\tecza.exe
+  tecza.vcxproj -> D:\Damian\ATH\Grafika\zaj3\zad2 tęcza\tecza\Debug\tecza.pdb (Partial PDB)
