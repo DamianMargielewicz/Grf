@@ -169,10 +169,10 @@ int button_x, button_y;
 
 GLfloat scale = 1.0;
 
-const GLfloat *ambient = BrassAmbient;
-const GLfloat *diffuse = BrassDiffuse;
-const GLfloat *specular = BrassSpecular;
-GLfloat shininess = BrassShininess;
+const GLfloat *ambient = SilverAmbient;
+const GLfloat *diffuse = SilverDiffuse;
+const GLfloat *specular = SilverSpecular;
+GLfloat shininess = SilverShininess;
 
 int normals = NORMALS_FLAT;
 int light = LIGHT_AMBIENT;
