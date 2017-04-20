@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\damian\ath\grafika\zaj 2\tekstura3\project1\project1\source.cpp(215): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\damian\ath\grafika\zaj 2\tekstura3\project1\project1\source.cpp(215): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+d:\damian\ath\grafika\zaj 2\tekstura3\project1\project1\source.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\damian\ath\grafika\zaj 2\tekstura3\project1\project1\source.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+d:\damian\ath\grafika\zaj 2\tekstura3\project1\project1\source.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\damian\ath\grafika\zaj 2\tekstura3\project1\project1\source.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+  Project1.vcxproj -> D:\Damian\ATH\Grafika\zaj 2\tekstura3\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\Damian\ATH\Grafika\zaj 2\tekstura3\Project1\Debug\Project1.pdb (Partial PDB)
