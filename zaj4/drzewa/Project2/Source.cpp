@@ -167,19 +167,19 @@ void DisplayScene()
 	glTranslatef(-0.5, 0.0, 0.0);
 	glScalef(0.5, 0.5, 0.5);
 	glCallList(TREE_LIST);
-	glTranslatef(1.0, 0.0, 0.5);
+	glTranslatef(0.5, 0.0, 0.2);
 	glCallList(TREE_LIST);
-	glTranslatef(1.0, 0.0, 0.5);
+	glTranslatef(0.5, 0.0, 0.2);
 	glCallList(TREE_LIST);
-	glTranslatef(1.0, 0.0, 0.5);
+	glTranslatef(0.5, 0.0, 0.2);
 	glCallList(TREE_LIST);
-	glTranslatef(1.0, 0.0, 0.5);
+	glTranslatef(0.5, 0.0, 0.2);
 	glCallList(TREE_LIST);
-	glTranslatef(1.0, 0.0, 0.5);
+	glTranslatef(0.5, 0.0, 0.2);
 	glCallList(TREE_LIST);
-	glTranslatef(1.0, 0.0, 0.5);
+	glTranslatef(0.5, 0.0, 0.2);
 	glCallList(TREE_LIST);
-	glTranslatef(1.0, 0.0, 0.5);
+	glTranslatef(0.5, 0.0, 0.2);
 	glCallList(TREE_LIST);
 	glPopMatrix();
 

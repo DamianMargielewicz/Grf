@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\grf\z1\project1\project1\source.cpp(27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Project1.vcxproj -> F:\Grf\z1\Project1\Debug\Project1.exe
+  Project1.vcxproj -> F:\Grf\z1\Project1\Debug\Project1.pdb (Partial PDB)
