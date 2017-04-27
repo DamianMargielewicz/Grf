@@ -645,67 +645,68 @@ void GenerateDisplayLists()
 	// seria trójkątów
 	glBegin(GL_TRIANGLES);
 
-	// przednie okno #1
+	// okno przod 1
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(-0.95, -0.33, 1.001);
+	glVertex3f(-0.75, -0.33, 1.001);
 	glTexCoord2f(1.0, 0.0);
-	glVertex3f(-0.4, -0.33, 1.001);
+	glVertex3f(-0.2, -0.33, 1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(-0.4, 0.66, 1.001);
+	glVertex3f(-0.2, 0.66, 1.001);
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(-0.95, -0.33, 1.001);
+	glVertex3f(-0.75, -0.33, 1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(-0.4, 0.66, 1.001);
+	glVertex3f(-0.2, 0.66, 1.001);
 	glTexCoord2f(0.0, 1.0);
-	glVertex3f(-0.95, 0.66, 1.001);
+	glVertex3f(-0.75, 0.66, 1.001);
 
 
 
-	// przednie okno #3
+	// okno przod 2
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(0.4, -0.33, 1.001);
+	glVertex3f(0.2, -0.33, 1.001);
 	glTexCoord2f(1.0, 0.0);
-	glVertex3f(0.95, -0.33, 1.001);
+	glVertex3f(0.75, -0.33, 1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(0.95, 0.66, 1.001);
+	glVertex3f(0.75, 0.66, 1.001);
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(0.4, -0.33, 1.001);
+	glVertex3f(0.2, -0.33, 1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(0.95, 0.66, 1.001);
+	glVertex3f(0.75, 0.66, 1.001);
 	glTexCoord2f(0.0, 1.0);
-	glVertex3f(0.4, 0.66, 1.001);
+	glVertex3f(0.2, 0.66, 1.001);
 
 	//--------------------------------
-	// tylnie okno #1
+	// okno tyl 1
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(-0.95, -0.33, -1.001);
+	glVertex3f(-0.75, -0.33, -1.001);
 	glTexCoord2f(1.0, 0.0);
-	glVertex3f(-0.4, -0.33, -1.001);
+	glVertex3f(-0.2, -0.33, -1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(-0.4, 0.66, -1.001);
+	glVertex3f(-0.2, 0.66, -1.001);
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(-0.95, -0.33, -1.001);
+	glVertex3f(-0.75, -0.33, -1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(-0.4, 0.66, -1.001);
+	glVertex3f(-0.2, 0.66, -1.001);
 	glTexCoord2f(0.0, 1.0);
-	glVertex3f(-0.95, 0.66, -1.001);
+	glVertex3f(-0.75, 0.66, -1.001);
 
 
-	// tylnie okno #3
+	// okno tyl 2
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(0.4, -0.33, -1.001);
+	glVertex3f(0.2, -0.33, -1.001);
 	glTexCoord2f(1.0, 0.0);
-	glVertex3f(0.95, -0.33, -1.001);
+	glVertex3f(0.75, -0.33, -1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(0.95, 0.66, -1.001);
+	glVertex3f(0.75, 0.66, -1.001);
 	glTexCoord2f(0.0, 0.0);
-	glVertex3f(0.4, -0.33, -1.001);
+	glVertex3f(0.2, -0.33, -1.001);
 	glTexCoord2f(1.0, 1.0);
-	glVertex3f(0.95, 0.66, -1.001);
+	glVertex3f(0.75, 0.66, -1.001);
 	glTexCoord2f(0.0, 1.0);
-	glVertex3f(0.4, 0.66, -1.001);
+	glVertex3f(0.2, 0.66, -1.001);
 
 	//--------------------------------
+	//okno prawe 1
 	glTexCoord2f(0.0, 0.0);
 	glVertex3f(1.001, 0.66, 0.2);
 	glTexCoord2f(1.0, 0.0);
@@ -719,7 +720,7 @@ void GenerateDisplayLists()
 	glTexCoord2f(0.0, 1.0);
 	glVertex3f(1.001, -0.33, 0.2);
 
-	// prawe okno #2
+	// okno prawe 2
 	glTexCoord2f(0.0, 0.0);
 	glVertex3f(1.001, 0.66, -0.2);
 	glTexCoord2f(1.0, 0.0);
@@ -734,7 +735,7 @@ void GenerateDisplayLists()
 	glVertex3f(1.001, -0.33, -0.2);
 
 	//--------------------------------
-	// lewe okno #1
+	// okno lewe 1
 	glTexCoord2f(0.0, 0.0);
 	glVertex3f(-1.001, 0.66, 0.2);
 	glTexCoord2f(1.0, 0.0);
@@ -748,7 +749,7 @@ void GenerateDisplayLists()
 	glTexCoord2f(0.0, 1.0);
 	glVertex3f(-1.001, -0.33, 0.2);
 
-	// lewe okno #2
+	// okno lewe 1
 	glTexCoord2f(0.0, 0.0);
 	glVertex3f(-1.001, 0.66, -0.2);
 	glTexCoord2f(1.0, 0.0);
